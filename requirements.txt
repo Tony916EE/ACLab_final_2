@@ -1,0 +1,8 @@
+opencv-contrib-python
+numpy
+djitellopy
+simple-pid
+PyYAML
+scikit-image
+imutils
+

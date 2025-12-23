@@ -24,14 +24,6 @@ Thumbs.db
 *.log
 *.tmp
 
-# Data/large
-*.mp4
-*.avi
-*.mov
-*.jpg
-*.jpeg
-*.png
-
 # Misc
 *.swp
 *.swo
