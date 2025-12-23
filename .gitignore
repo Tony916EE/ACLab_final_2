@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.dll
+
+# Environments
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs and artifacts
+*.npz
+*.log
+*.tmp
+
+# Data/large
+*.mp4
+*.avi
+*.mov
+*.jpg
+*.jpeg
+*.png
+
+# Misc
+*.swp
+*.swo
+
